@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299474732858",
+    "project_id": "notetaker-learn-flutter",
+    "storage_bucket": "notetaker-learn-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299474732858:android:7970fafee043c89dbe3203",
+        "android_client_info": {
+          "package_name": "io.raweber.notetaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299474732858-oojumbidhse3ahj77taggvc27mik7t16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWQllkeJ2ekboUYWTOdl37246E8-Ak2Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299474732858-oojumbidhse3ahj77taggvc27mik7t16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

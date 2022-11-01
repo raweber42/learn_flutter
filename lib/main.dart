@@ -6,8 +6,6 @@ import 'package:notetaker/views/notes_view.dart';
 import 'package:notetaker/views/register_view.dart';
 import 'package:notetaker/views/verify_email_view.dart';
 
-import 'firebase_options.dart';
-
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(

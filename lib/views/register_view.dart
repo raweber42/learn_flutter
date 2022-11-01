@@ -5,8 +5,6 @@ import 'package:notetaker/services/auth/auth_service.dart';
 import 'package:notetaker/utilities/show_error_dialog.dart';
 import 'dart:developer' as devtools show log;
 
-import 'package:notetaker/views/verify_email_view.dart';
-
 class RegisterView extends StatefulWidget {
   const RegisterView({super.key});
 
